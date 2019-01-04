@@ -1,0 +1,54 @@
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe.config
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.pdb
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Design.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Form1.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Properties.Resources.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.GenerateResource.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.exe
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.pdb
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Play.resources
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\Exchange_Picturebox_Position\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csprojAssemblyReference.cache
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\Exchange_Picturebox_Position\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.exe
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\Exchange_Picturebox_Position\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.pdb
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csprojAssemblyReference.cache
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.exe
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.pdb
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe.config
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.pdb
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csprojAssemblyReference.cache
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Design.resources
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Form1.resources
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Play.resources
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Properties.Resources.resources
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.GenerateResource.cache
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.CoreCompileInputs.cache
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.exe
+C:\Conestoga College\Level 3\PROG2370-Game Programming with Data Structure\Assignments\Assignment2\BPowersAssignment2 (1)\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.pdb
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe.config
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.pdb
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Design.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Form1.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Play.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Properties.Resources.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.GenerateResource.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.exe
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.pdb
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe.config
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.exe
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\bin\Debug\BPowersAssignment1.pdb
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Design.resources
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Form1.resources
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Play.resources
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.Properties.Resources.resources
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.GenerateResource.cache
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.exe
+C:\Users\ya_ma\Desktop\Source Code\Game Design\Game Design Assignment 2\Game Design Assignment 2\BPowersAssignment2\BPowersAssignment2\BPowersAssignment1\obj\Debug\BPowersAssignment1.pdb
