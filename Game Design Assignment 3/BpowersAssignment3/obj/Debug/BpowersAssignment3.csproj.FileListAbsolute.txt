@@ -1,0 +1,30 @@
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.exe.config
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.exe
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.pdb
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.Form1.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.Properties.Resources.resources
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csproj.GenerateResource.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.exe
+C:\Users\ya_ma\Desktop\School\Current Courses\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.pdb
+E:\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.exe.config
+E:\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.exe
+E:\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.pdb
+E:\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csprojAssemblyReference.cache
+E:\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.Form1.resources
+E:\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.Properties.Resources.resources
+E:\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csproj.GenerateResource.cache
+E:\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csproj.CoreCompileInputs.cache
+E:\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.exe
+E:\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.pdb
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.exe.config
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.exe
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\bin\Debug\BpowersAssignment3.pdb
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csprojAssemblyReference.cache
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.Form1.resources
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.Properties.Resources.resources
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csproj.GenerateResource.cache
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.csproj.CoreCompileInputs.cache
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.exe
+E:\Files From School\Game Design\BpowersAssignment3\BpowersAssignment3\obj\Debug\BpowersAssignment3.pdb
